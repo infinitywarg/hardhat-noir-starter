@@ -1,0 +1,17 @@
+{
+  "name": "hardhat-noir-starter",
+  "scripts": {
+    "build:circuits": "bash ./scripts/bash/build_circuits.sh",
+    "build:contracts": "",
+    "test:contracts": "",
+    "lint": ""
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.18.3"
+  },
+  "dependencies": {
+    "@noir-lang/backend_barretenberg": "^0.17.0",
+    "@noir-lang/noir_js": "^0.17.0"
+  }
+}
