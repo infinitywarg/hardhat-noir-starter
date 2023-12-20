@@ -9,6 +9,9 @@ typechain-types
 cache
 artifacts
 
+# noir setup crs
+crs
+
 # noir circuit files
 circuits/**/**/target
 circuits/**/**/contract
