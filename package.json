@@ -11,7 +11,7 @@
     "hardhat": "^2.18.3"
   },
   "dependencies": {
-    "@noir-lang/backend_barretenberg": "^0.17.0",
-    "@noir-lang/noir_js": "^0.17.0"
+    "@noir-lang/backend_barretenberg": "0.19.4",
+    "@noir-lang/noir_js": "0.19.4"
   }
 }
